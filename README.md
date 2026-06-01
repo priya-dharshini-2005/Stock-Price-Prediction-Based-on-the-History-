@@ -51,6 +51,4 @@ This project predicts future stock prices using a Gated Recurrent Unit (GRU) neu
 - LSTM Comparison
 - Real-Time Stock Prediction
 
-## Author
-
-Riya
+ 
